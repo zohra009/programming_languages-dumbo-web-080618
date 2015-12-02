@@ -127,3 +127,5 @@ puts hash
 * [[]= method](http://www.ruby-doc.org/core-2.2.0/Hash.html#method-i-5B-5D)
 * [[] method](http://www.ruby-doc.org/core-2.2.0/Hash.html#method-i-5B-5D)
 * [Iteration](http://stackoverflow.com/a/9279884/2890716)
+
+<a href='https://learn.co/lessons/programming_languages' data-visibility='hidden'>View this lesson on Learn.co</a>
