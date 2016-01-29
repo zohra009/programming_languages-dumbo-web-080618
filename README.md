@@ -128,4 +128,4 @@ puts hash
 * [[] method](http://www.ruby-doc.org/core-2.2.0/Hash.html#method-i-5B-5D)
 * [Iteration](http://stackoverflow.com/a/9279884/2890716)
 
-<a href='https://learn.co/lessons/programming_languages' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/programming_languages' title='Nested Data Structures Practice: Iterating and Manipulating'>Nested Data Structures Practice: Iterating and Manipulating</a> on Learn.co and start learning to code for free.</p>
